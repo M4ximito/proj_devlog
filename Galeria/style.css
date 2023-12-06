@@ -1,0 +1,242 @@
+.galeria {
+  background-color: #7b80b7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.galeria .div {
+  background-color: #7b80b7;
+  width: 1980px;
+  height: 1268px;
+  position: relative;
+}
+
+.galeria .overlap {
+  position: absolute;
+  width: 428px;
+  height: 61px;
+  top: 254px;
+  left: 893px;
+  background-image: url(./img/rectangle-12.svg);
+  background-size: 100% 100%;
+}
+
+.galeria .text-wrapper {
+  width: 381px;
+  top: 5px;
+  left: 14px;
+  color: #ffffff;
+  text-align: center;
+  position: absolute;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.galeria .for {
+  position: absolute;
+  width: 520px;
+  height: 290px;
+  top: 382px;
+  left: 134px;
+  object-fit: cover;
+}
+
+.galeria .boj {
+  position: absolute;
+  width: 520px;
+  height: 290px;
+  top: 382px;
+  left: 1349px;
+  object-fit: cover;
+}
+
+.galeria .element {
+  position: absolute;
+  width: 520px;
+  height: 290px;
+  top: 382px;
+  left: 742px;
+  object-fit: cover;
+}
+
+.galeria .vikings-valhalla {
+  position: absolute;
+  width: 520px;
+  height: 290px;
+  top: 689px;
+  left: 1349px;
+  object-fit: cover;
+}
+
+.galeria .img {
+  position: absolute;
+  width: 520px;
+  height: 290px;
+  top: 693px;
+  left: 134px;
+  object-fit: cover;
+}
+
+.galeria .vik {
+  position: absolute;
+  width: 520px;
+  height: 290px;
+  top: 693px;
+  left: 742px;
+  object-fit: cover;
+}
+
+.galeria .overlap-group {
+  position: absolute;
+  width: 1980px;
+  height: 223px;
+  top: 1045px;
+  left: 0;
+  background-color: #5a5f8c;
+}
+
+.galeria .aa-ca {
+  width: 252px;
+  height: 84px;
+  top: 81px;
+  left: 29px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.galeria .pngwing {
+  width: 78px;
+  height: 78px;
+  top: 92px;
+  left: 1489px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.galeria .pngwing-2 {
+  width: 94px;
+  height: 93px;
+  top: 86px;
+  left: 1654px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.galeria .pngwing-3 {
+  width: 144px;
+  height: 104px;
+  top: 81px;
+  left: 1795px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.galeria .aa-ca-2 {
+  width: 782px;
+  height: 220px;
+  top: 34px;
+  left: 57px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.galeria .overlap-2 {
+  position: absolute;
+  width: 250px;
+  height: 125px;
+  top: 34px;
+  left: 1677px;
+}
+
+.galeria .rectangle {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-color: #fbc106;
+}
+
+.galeria .text-wrapper-2 {
+  position: absolute;
+  width: 190px;
+  top: 25px;
+  left: 30px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #0c0f30;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.galeria .div-wrapper {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  top: 34px;
+  left: 893px;
+  background-color: #0c0f30;
+}
+
+.galeria .text-wrapper-3 {
+  width: 156px;
+  top: 25px;
+  left: 47px;
+  color: #fbc106;
+  position: absolute;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.galeria .overlap-3 {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  top: 34px;
+  left: 1153px;
+  background-color: #0c0f30;
+}
+
+.galeria .text-wrapper-4 {
+  position: absolute;
+  width: 175px;
+  top: 25px;
+  left: 64px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #fbc106;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.galeria .overlap-4 {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  top: 34px;
+  left: 1413px;
+  background-color: #0c0f30;
+}
+
+.galeria .text-wrapper-5 {
+  position: absolute;
+  width: 120px;
+  top: 25px;
+  left: 76px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #fbc106;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}

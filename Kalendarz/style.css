@@ -1,0 +1,559 @@
+.kalendarz {
+  background-color: #7b80b7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.kalendarz .div {
+  background-color: #7b80b7;
+  width: 1980px;
+  height: 1702px;
+  position: relative;
+}
+
+.kalendarz .overlap-group {
+  position: absolute;
+  width: 1980px;
+  height: 223px;
+  top: 1479px;
+  left: 0;
+  background-color: #5a5f8c;
+}
+
+.kalendarz .aa-ca {
+  width: 252px;
+  height: 84px;
+  top: 62px;
+  left: 29px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.kalendarz .pngwing {
+  width: 78px;
+  height: 78px;
+  top: 92px;
+  left: 1489px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.kalendarz .img {
+  width: 94px;
+  height: 93px;
+  top: 86px;
+  left: 1654px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.kalendarz .pngwing-2 {
+  width: 144px;
+  height: 104px;
+  top: 81px;
+  left: 1795px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.kalendarz .aa-ca-2 {
+  width: 782px;
+  height: 220px;
+  top: 34px;
+  left: 57px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.kalendarz .overlap {
+  position: absolute;
+  width: 250px;
+  height: 125px;
+  top: 34px;
+  left: 1677px;
+}
+
+.kalendarz .rectangle {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-color: #fbc106;
+}
+
+.kalendarz .text-wrapper {
+  position: absolute;
+  width: 190px;
+  top: 25px;
+  left: 30px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #0c0f30;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kalendarz .div-wrapper {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  top: 34px;
+  left: 893px;
+  background-color: #0c0f30;
+}
+
+.kalendarz .text-wrapper-2 {
+  position: absolute;
+  width: 156px;
+  top: 25px;
+  left: 47px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #fbc106;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kalendarz .overlap-2 {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  top: 34px;
+  left: 1153px;
+  background-color: #0c0f30;
+}
+
+.kalendarz .text-wrapper-3 {
+  position: absolute;
+  width: 175px;
+  top: 25px;
+  left: 64px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #fbc106;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kalendarz .overlap-3 {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  top: 34px;
+  left: 1413px;
+  background-color: #0c0f30;
+}
+
+.kalendarz .text-wrapper-4 {
+  position: absolute;
+  width: 120px;
+  top: 25px;
+  left: 76px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #fbc106;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kalendarz .rectangle-2 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 404px;
+  left: 372px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-3 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 404px;
+  left: 556px;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-4 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 404px;
+  left: 754px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-5 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 404px;
+  left: 938px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-6 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 404px;
+  left: 1136px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-7 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 404px;
+  left: 1320px;
+  background-color: #c07676;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-8 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 404px;
+  left: 1504px;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-9 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 598px;
+  left: 372px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-10 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 598px;
+  left: 556px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-11 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 598px;
+  left: 754px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-12 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 598px;
+  left: 938px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-13 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 598px;
+  left: 1136px;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-14 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 598px;
+  left: 1320px;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-15 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 598px;
+  left: 1504px;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .overlap-4 {
+  position: absolute;
+  width: 245px;
+  height: 65px;
+  top: 1361px;
+  left: 1320px;
+}
+
+.kalendarz .rectangle-16 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 0;
+  left: 0;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .text-wrapper-5 {
+  position: absolute;
+  top: 9px;
+  left: 56px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kalendarz .rectangle-17 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 792px;
+  left: 372px;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-18 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 792px;
+  left: 556px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-19 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 792px;
+  left: 754px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-20 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 792px;
+  left: 938px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-21 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 792px;
+  left: 1136px;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-22 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 792px;
+  left: 1320px;
+  background-color: #c07676;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-23 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 792px;
+  left: 1504px;
+  background-color: #c07676;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-24 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 986px;
+  left: 372px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-25 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 986px;
+  left: 556px;
+  background-color: #4dc34a;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .overlap-5 {
+  position: absolute;
+  width: 226px;
+  height: 66px;
+  top: 1179px;
+  left: 1320px;
+}
+
+.kalendarz .rectangle-26 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 1px;
+  left: 0;
+  background-color: #4dc34a;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .text-wrapper-6 {
+  position: absolute;
+  top: 0;
+  left: 56px;
+  font-family: "Days One", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.kalendarz .rectangle-27 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 986px;
+  left: 754px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-28 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 986px;
+  left: 938px;
+  background-color: #fbc106;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-29 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 986px;
+  left: 1136px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-30 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 986px;
+  left: 1320px;
+  background-color: #c07676;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .overlap-6 {
+  position: absolute;
+  width: 310px;
+  height: 65px;
+  top: 1273px;
+  left: 1320px;
+}
+
+.kalendarz .rectangle-31 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 0;
+  left: 0;
+  background-color: #c07676;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-32 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 986px;
+  left: 1504px;
+  background-color: #c07676;
+  border: 14px solid;
+  border-color: #0c0f30;
+}
+
+.kalendarz .rectangle-33 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 1180px;
+  left: 372px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
+
+.kalendarz .rectangle-34 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 1180px;
+  left: 556px;
+  background-color: #0c0f30;
+  border: 14px solid;
+}
